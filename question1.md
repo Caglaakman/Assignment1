@@ -5,3 +5,8 @@
 **ANSWER**
 
 my_boolean_variable = True
+# Melikekefeli's answer 
+
+my_integer_variable = 5
+my_float_variable = 2.6
+
