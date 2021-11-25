@@ -7,15 +7,15 @@ concatenation operator on the standard output !
 '''
 
 promoter = "TTAAATTATAAATTTTTAAAAAAA"
-five_prime_UTR = AAAATTTGGGGGGGGGGG
+five_prime_UTR = "AAAATTTGGGGGGGGGGG"
 start_codon = "ATG"
 exon1 = "GCATGAAATGGGTACACA"
 intron = "GGGGGGGGTTTTT"
-exon = "ACGCGACAAATGACA"
+exon2 = "ACGCGACAAATGACA"
 stop_codon = "TGA"
-three_prime_UTR = "TTTTTTTTAAAAAAAAAAAAAAAé
+three_prime_UTR = "TTTTTTTTAAAAAAAAAAAAAAA"
 
-my_fav_gene = promoter + five_prime_UTR + start_codon + exon1 + intron + exon + stop_codon + three_prime_UTR
+my_fav_gene = promoter + five_prime_UTR + start_codon + exon1 + intron + exon2 + stop_codon + three_prime_UTR
 
 
 print("My favourite gene sequence is as follows:")
