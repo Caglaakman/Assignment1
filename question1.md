@@ -10,3 +10,7 @@ my_boolean_variable = True
 my_integer_variable = 5
 my_float_variable = 2.6
 
+# Sude's answer 
+my_string_variable = "Sude"
+my_tuple_variable = (2001, 01, 08)
+
