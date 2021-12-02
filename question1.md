@@ -12,5 +12,5 @@ my_float_variable = 2.6
 
 # Sude's answer 
 my_string_variable = "Sude"
-my_tuple_variable = (2001, 01, 08)
+my_tuple_variable = (2001, 1, 8)
 
